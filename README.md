@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manishniet2004
-- 👀 I’m interested in Software developer
+- 👀 I’m interested in Software development 
 - 🌱 I’m currently learning java programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
